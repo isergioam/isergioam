@@ -1,4 +1,9 @@
-# 👋 ¡Hola! Soy Sergio Aguilar
+<!-- Introduction-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFF&center=true&width=500&lines=Hello%2C+I'm+Sergio+Aguilar;Welcome+to+my+GitHub" alt="Typing SVG" />
+  </a>
+</div>
 
 💻 **Frontend Developer | Web Developer | WordPress Specialist | .NET Developer**
 📍 Málaga, España
