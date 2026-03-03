@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sergio Aguilar Márquez
+# 👋 ¡Hola! Soy Sergio Aguilar
 
 💻 **Frontend Developer | Web Developer | WordPress Specialist | .NET Developer**
 📍 Málaga, España
