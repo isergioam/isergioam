@@ -20,15 +20,12 @@ Me apasiona crear interfaces limpias, funcionales y totalmente responsive. Me ad
 Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada proyecto.
 
 ---
-
-<h3>🛠️ Tech Stack</h3>
 <div align="center">
 <table>
     <tr>
         <th></th>
         <th>Experience with</th>
     </tr>
-
     <tr>
         <td>👨‍💻 Frontend</td>
         <td>
@@ -40,7 +37,6 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
             <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS">
         </td>
     </tr>
-
     <tr>
         <td>⚙️ Backend</td>
         <td>
@@ -50,7 +46,6 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         </td>
     </tr>
-
     <tr>
         <td>🗄️ Bases de Datos</td>
         <td>
@@ -59,7 +54,6 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
             <img src="https://img.shields.io/badge/Microsoft_Access-A4373E?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access">
         </td>
     </tr>
-
     <tr>
         <td>🌐 CMS & eCommerce</td>
         <td>
@@ -68,7 +62,6 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
             <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla">
         </td>
     </tr>
-
     <tr>
         <td>🧰 Herramientas</td>
         <td>
@@ -83,47 +76,6 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
 
 </table>
 </div>
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
-* React
-* AngularJS
-
-### ⚙️ Backend
-
-* ASP.NET
-* C#
-* .NET Framework
-* PHP
-
-### 🗄️ Bases de Datos
-
-* MySQL
-* Oracle Database
-* Microsoft Access
-
-### 🌐 CMS & eCommerce
-
-* WordPress
-* WooCommerce
-* Joomla
-
-### 🧰 Herramientas
-
-* Visual Studio
-* IntelliJ
-* Eclipse
-* NetBeans
-* Sublime Text
-* Git
-
----
 
 ## 💼 Experiencia Destacada
 
