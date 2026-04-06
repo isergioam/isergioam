@@ -1,27 +1,36 @@
-# Introduction
-This is a brief introduction about myself.
+# README
 
-# About
-Here is some information about my background and interests.
+## Introduction
 
-# Experience Table
-| Position | Company | Year |
-|----------|---------|------|
-| Developer | ABC Corp | 2020 |
-| Manager | XYZ Ltd | 2021 |
+Welcome to my GitHub profile! Here you will find an overview of my professional experiences, education, and skills.
 
-# Work Experience
-- Developed various software applications.
-- Led a team of developers to success on multiple projects.
+## Experience
 
-# Education
-- Bachelor's Degree in Computer Science.
+| Job Title                  | Company             | Year      |
+|----------------------------|---------------------|-----------|
+| Software Engineer           | Tech Solutions Inc. | 2025-2026 |
+| Junior Developer           | Web Development Co. | 2023-2025 |
 
-# Languages
-- English
-- Spanish
+## Trabajo Experience
 
-# Soft Skills
-- Teamwork
-- Communication
+- Developer for front-end applications.
+- Worked with a team to develop back-end services.
 
+## Education
+
+- Bachelor of Science in Computer Science, University X (Graduated 2023)
+
+## Languages
+
+- English (Fluent)
+- Spanish (Native)
+
+## Soft Skills
+
+- Team Player
+- Strong Communication
+- Problem-Solving
+
+---
+
+Thank you for visiting my profile!
