@@ -35,7 +35,7 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
             <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS">
-<img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
         </td>
     </tr>
     <tr>
