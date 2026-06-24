@@ -115,8 +115,8 @@ Siempre busco mejorar rendimiento, usabilidad y experiencia de usuario en cada p
 
 ## 🎓 Formación
 
-🎓 CFGS Administración de Sistemas Informáticos en Red
-🎓 Formación complementaria en React, Java Web, ABAP IV y e-commerce
+* CFGS Administración de Sistemas Informáticos en Red.
+* Formación complementaria en React, Java Web, ABAP IV y e-commerce.
 
 ---
 
